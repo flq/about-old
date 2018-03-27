@@ -1,3 +1,4 @@
 *.tmp
 Thumbs.db
 _site
+.DS_Store
